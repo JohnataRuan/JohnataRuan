@@ -94,9 +94,18 @@ Sou apaixonado por tecnologia e programação e tenho como foco o desenvolviment
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width ='440'
     style="padding-right: 10px;" 
     src="https://github-stats-extended.vercel.app/api?username=JohnataRuan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200"
+      width ='395'
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=JohnataRuan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
+</p>
 </p>
